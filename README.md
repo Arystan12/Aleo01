@@ -1,3 +1,5 @@
+Discord arystan8172
+Discord ID 559279635742064641
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
